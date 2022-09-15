@@ -5,7 +5,7 @@
 
 ## About The Project
 
-    This is a countdown timer built to show the remaining days to the Moringa School Cohort 26 2023 Graduation just so that the students can keep working hard knowing that there's light at the end of the tunnel.
+    This is a color flipper site that generates random colors on each click of the button. It's a good game to pass time with.
 
 
 
@@ -23,8 +23,8 @@
 
 ## General info
 
-The legendary Star Wars film series, which includes both live-action and animated productions, is the foundation of the Star Wars store.
-This project is an online store where users may purchase Star Wars ships. It is styled after an eBay website, allowing users to login and search for ships, browse detail pages for additional ships, and access additional information about specific ships.
+This is a color flipper site that generates random colors on each click of the button. It's a good game to pass time with.
+
 
 
 
@@ -32,7 +32,7 @@ This project is an online store where users may purchase Star Wars ships. It is 
 <br>
 
 
-<img src="./graduation-countdown.png" width="800px"/>
+<img src="./color-flipper.png" width="800px"/>
 
 <br>
 
@@ -65,7 +65,7 @@ To run this project, clone or download it from git hub. Using Live server or you
 
 ## Live GitHub Pages Link
 
-[Color Flipper](https://andrew-ochieng.github.io/Graduation-Countdown/)
+[Color Flipper](https://andrew-ochieng.github.io/color-flipper/)
 
 
 
